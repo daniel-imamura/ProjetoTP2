@@ -1,0 +1,73 @@
+2chico 4INI11 Info1
+2chico 5INI11 Info1
+2patric1Net   Info2
+2patric3Net   Info2
+2sergio1ProtopInfo3
+2sergio2INI14 Info1
+2sergio3INI14 Info1
+2sergio5ProtopInfo3
+2simone3BD    Info3
+2simone4BD    Info3
+2simone6BD    Info3
+2wiliam1GE    Info2
+2wiliam3GE    Info2
+2wiliam6GE    Info3
+3chico 1INI11 Info1
+3chico 2INI11 Info1
+3patric2Net   Info3
+3patric3Net   Info2
+3patric4Net   Info3
+3sergio1ProtopInfo3
+3sergio2ProtopInfo3
+3simone3INI12 Info1
+3simone4INI12 Info1
+3simone5INI12 Info1
+3wiliam5GE    Info2
+3wiliam6GE    Info2
+4chico 1TecProInfo3
+4chico 2TecProInfo2
+4chico 4TecProInfo2
+4patric3INI13 Info1
+4patric4INI13 Info1
+4patric5INI13 Info1
+4sergio2ProtopInfo3
+4sergio5ProtopInfo2
+4simone1BD    Info3
+4simone4BD    Info3
+4simone6BD    Info3
+5chico 3INI11 Info1
+5chico 4INI11 Info1
+5chico 5INI11 Info1
+5patric1Net   Info3
+5patric2Net   Info2
+5patric3Net   Info3
+5patric5Net   Info2
+5sergio2ProtopInfo2
+5sergio5ProtopInfo2
+5sergio6ProtopInfo2
+5simone2BD    Info2
+5simone4BD    Info3
+5simone5BD    Info3
+5wiliam4GE    Info2
+5wiliam6GE    Info2
+6chico 1TecProInfo3
+6chico 3TecProInfo2
+6chico 5TecProInfo2
+6chico 6TecProInfo3
+6patric1Net   Info3
+6patric2Net   Info3
+6patric3Net   Info3
+6sergio3ProtopInfo3
+6sergio4ProtopInfo3
+6sergio6ProtopInfo3
+6simone2BD    Info2
+6simone3BD    Info3
+6simone4BD    Info2
+6simone5BD    Info2
+6wiliam3INI15 Info1
+6wiliam4INI15 Info1
+6wiliam5INI15 Info1
+7chico 5TecProInfo3
+7chico 6TecProInfo3
+7sergio4ProtopInfo2
+7sergio5ProtopInfo3

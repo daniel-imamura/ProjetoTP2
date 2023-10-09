@@ -1,0 +1,10 @@
+C:\Users\Rosane\Desktop\Daniel\Projetos\20128_Projeto2TP\bin\Debug\20128_Projeto2TP.exe.config
+C:\Users\Rosane\Desktop\Daniel\Projetos\20128_Projeto2TP\bin\Debug\20128_Projeto2TP.exe
+C:\Users\Rosane\Desktop\Daniel\Projetos\20128_Projeto2TP\bin\Debug\20128_Projeto2TP.pdb
+C:\Users\Rosane\Desktop\Daniel\Projetos\20128_Projeto2TP\obj\Debug\20128_Projeto2TP.csprojAssemblyReference.cache
+C:\Users\Rosane\Desktop\Daniel\Projetos\20128_Projeto2TP\obj\Debug\_20128_Projeto2TP.Form1.resources
+C:\Users\Rosane\Desktop\Daniel\Projetos\20128_Projeto2TP\obj\Debug\_20128_Projeto2TP.Properties.Resources.resources
+C:\Users\Rosane\Desktop\Daniel\Projetos\20128_Projeto2TP\obj\Debug\20128_Projeto2TP.csproj.GenerateResource.cache
+C:\Users\Rosane\Desktop\Daniel\Projetos\20128_Projeto2TP\obj\Debug\20128_Projeto2TP.csproj.CoreCompileInputs.cache
+C:\Users\Rosane\Desktop\Daniel\Projetos\20128_Projeto2TP\obj\Debug\20128_Projeto2TP.exe
+C:\Users\Rosane\Desktop\Daniel\Projetos\20128_Projeto2TP\obj\Debug\20128_Projeto2TP.pdb
